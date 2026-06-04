@@ -1,0 +1,21 @@
+=== Secure Login System Report ===
+
+Project Objective:
+Develop a secure login web application with authentication and session management.
+
+Features Implemented:
+- User Registration
+- Secure Login
+- Password Hashing using bcrypt
+- Session Management
+- Logout Functionality
+- SQL Injection Protection
+
+Technologies Used:
+- Python
+- Flask
+- SQLite
+- bcrypt
+
+Conclusion:
+The application securely stores user credentials using password hashing and manages user sessions through Flask session management.
